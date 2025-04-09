@@ -4,6 +4,9 @@ I also work within the college as a Graduate Admissions Representative.
 Pronouns: she/her
 Ask me about: My favorite tea :) 
 
+Topic 1 [Plant-it](https://github.com/MDeLuise/plant-it)
+Topic 2 [Open Farm](https://github.com/openfarmcc/OpenFarm)
+
 
 <!--
 **adrianhbatt/adrianhbatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
