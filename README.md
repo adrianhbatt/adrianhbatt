@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Adrian and I am a Drexel MLIS student looking to learn a bit more about how to navigate this platform!
+I also work within the college as a Graduate Admissions Representative.
 Pronouns: she/her
 Ask me about: My favorite tea :) 
 
