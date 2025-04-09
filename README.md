@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Adrian and I am a Drexel MLIS student looking to learn a bit more about how to navigate this platform!
+Pronouns: she/her
+Ask me about: My favorite tea :) 
+
 
 <!--
 **adrianhbatt/adrianhbatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
